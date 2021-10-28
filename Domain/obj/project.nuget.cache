@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nueKrIkhqI6k+8nrsFuWzcqdq9FMzSnAhKUpU1eUziqokStm7vd5Mfdj+nQmDDXtjD5REA8mTxYXJ0IWuCG1ig==",
+  "success": true,
+  "projectFilePath": "D:\\Kim\\School\\jaar_4\\CloudDatabase-Kimberly-vanGelder\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kimbe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
